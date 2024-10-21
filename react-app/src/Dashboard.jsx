@@ -3,7 +3,7 @@ import home from './assets/home.svg';
 import results from './assets/results.svg';
 import signout from './assets/sign-out.svg';
 import python from './assets/python.svg';
-import cpp from './assets/c++.svg';
+import cpp from './assets/CPP.svg';
 import java from './assets/java.svg';
 
 function Dashboard () {

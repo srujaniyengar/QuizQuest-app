@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import cpp from './assets/C++.svg';
+import cpp from './assets/CPP.svg';
 import home from './assets/home.svg';
 import results from './assets/results.svg';
 import signout from './assets/sign-out.svg';
